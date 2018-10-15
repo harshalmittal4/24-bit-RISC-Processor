@@ -4,7 +4,7 @@
 ### Datapath
 ![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/Datapath.jpg)
 
-### Instruction Set Architecture (ISA):
+### Instruction Set Architecture (ISA)
 ![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/ISA.JPG)
 
 ### Test Runs
