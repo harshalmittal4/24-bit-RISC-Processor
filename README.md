@@ -1,5 +1,5 @@
 # MIPS Processsor (RISC)
-* This is the verilog based simulation of the processor implemented using self developed ISA. 
+* This is the verilog based simulation of a 24-bit MIPS processor implemented using self developed ISA. 
 
 ## Datapath
 
