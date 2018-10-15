@@ -1,10 +1,10 @@
 # MIPS Processsor (RISC)
-Simulation in verilog with self developed ISA.
+This is the verilog based simulation of the processor implemented using self developed ISA. 
 
 ### Datapath
 ![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/Datapath.jpg)
 
-### Instruction Set Architecture: 
+### Instruction Set Architecture (ISA):
 ![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/ISA.JPG)
 
 ### Test Runs
@@ -16,8 +16,9 @@ Simulation in verilog with self developed ISA.
 ![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/test1.png)
 ![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/testw1.png)
 
+<pre>
 2)BEQ 101100 00100 00110 00000011
-
+</pre>
 ![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/test2.png)
 ![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/testw2.png)
 
