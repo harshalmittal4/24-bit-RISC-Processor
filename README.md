@@ -18,13 +18,11 @@
    ADD  r0  r1  r2                          //add  $(r0) and $(r1) and store result in r2
    JUMP  0000000000000011                   //  jump to location 11<<2  i.e  1100 
  </pre>
-![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/test1.png)
 ![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/testw1.png)
 
 <pre>
 2)BEQ 101100 00100 00110 00000011
 </pre>
-![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/test2.png)
 ![alt text](https://github.com/harshalmittal4/24-bit-MIPS-Processor-Simulation/blob/master/images/testw2.png)
 
 
