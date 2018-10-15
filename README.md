@@ -1,5 +1,5 @@
-# MIPS Processsor (RISC)
-* Verilog implementation of a 24-bit MIPS processor using a self developed ISA. 
+# RISC Processsor 
+* Verilog implementation of a 24-bit RISC processor using a self developed ISA. 
 
 ## Datapath
 
